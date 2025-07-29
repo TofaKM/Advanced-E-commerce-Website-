@@ -1,0 +1,25 @@
+.cart-item-image {
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Existing styles from ModalDetails */
+.modal-custom .product-image {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  object-fit: cover;
+}
+
+.table-custom th,
+.table-custom td {
+  vertical-align: middle;
+}
+
+.quantity-input {
+  width: 80px;
+}
+
+.btn-custom {
+  min-width: 100px;
+}

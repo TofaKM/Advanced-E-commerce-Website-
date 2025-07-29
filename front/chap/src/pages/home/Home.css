@@ -1,0 +1,14 @@
+.hero {
+  background: linear-gradient(135deg, #32b817 0%, #0dfdc9 100%);
+}
+.carousel-caption {
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+.card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
+}
+footer a:hover {
+  text-decoration: underline;
+}

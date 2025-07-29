@@ -1,0 +1,24 @@
+
+.history-modal .modal-body {
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.history-modal .table {
+  margin-top: 20px;
+}
+
+.history-modal .table th,
+.history-modal .table td {
+  vertical-align: middle;
+}
+
+.history-modal .btn-info {
+  margin-right: 10px;
+}
+
+.history-modal .collapse-table {
+  margin-left: 20px;
+  margin-right: 20px;
+  background: #f8f9fa;
+}
